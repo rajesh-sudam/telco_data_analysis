@@ -1,0 +1,10 @@
+# pYTHON
+__pycache__/
+*.pyc 
+
+# upyter
+.ipynb_checkpoints/
+
+#  Virtual Environment
+venv/
+.env
